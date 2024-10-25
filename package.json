@@ -1,5 +1,6 @@
 {
-  "homepage": "https://OmkArsoni72.github.io/Investt--main",
+  "homepage": "https://OmkArsoni72.github.io/Investplus--main
+",
   "name": "react-yt",
   "private": true,
   "version": "0.0.0",
@@ -9,8 +10,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy":"gh-pages -d build",
-    "predeploy":"npm run build"
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "chart.js": "^4.4.5",
